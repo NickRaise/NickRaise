@@ -61,10 +61,10 @@
 ###
 
 <ul>
-  <li>💻 A **problem-solver** at heart, crafting **innovative** and **scalable** solutions using **full-stack** technologies to bring ideas to life.</li>
-  <li>🚀 Currently diving into <strong>DevOps</strong> practices and actively building a <strong>production-level chess application</strong>, where I’m excited to collaborate with contributors.</li>
-  <li>🧑‍💻 Experienced in <strong>frontend</strong> technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, as well as <strong>backend</strong> frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Hono.js</strong>.</li>
-  <li>📊 Skilled in <strong>databases</strong> like <strong>MongoDB</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong>, with a strong understanding of <strong>CI/CD</strong> processes, <strong>Docker</strong>, and <strong>monorepos</strong> for efficient development workflows.</li>
+  <li>💻 A <string>problem-solver</string> at heart, crafting <string>innovative</string> and <string>scalable</string> solutions using <string>full-stack</string> technologies to bring ideas to life.</li>
+  <li>🚀 Currently diving into <string>DevOps</string> practices and actively building a <string>production-level chess application</string>, where I’m excited to collaborate with contributors.</li>
+  <li>🧑‍💻 Experienced in <string>frontend</string> technologies like <string>React</string>, <string>Next.js</string>, and <string>Tailwind CSS</string>, as well as <string>backend</string> frameworks such as <string>Node.js</string>, <string>Express.js</string>, and <string>Hono.js</string>.</li>
+  <li>📊 Skilled in <string>databases</string> like <string>MongoDB</string>, <string>PostgreSQL</string>, and <string>Redis</string>, with a strong understanding of <string>CI/CD</string> processes, <string>Docker</string>, and <string>monorepos</string> for efficient development workflows.</li>
 </ul>
 
 <ul>
