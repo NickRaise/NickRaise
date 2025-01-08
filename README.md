@@ -61,7 +61,7 @@
 ###
 
 <ul>
-  <li>💻 I'm a <strong>Full-Stack Developer</strong> passionate about building robust web applications.</li>
+  <li>💻 A **problem-solver** at heart, crafting **innovative** and **scalable** solutions using **full-stack** technologies to bring ideas to life.</li>
   <li>🚀 Currently diving into <strong>DevOps</strong> practices and actively building a <strong>production-level chess application</strong>, where I’m excited to collaborate with contributors.</li>
   <li>🧑‍💻 Experienced in <strong>frontend</strong> technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, as well as <strong>backend</strong> frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Hono.js</strong>.</li>
   <li>📊 Skilled in <strong>databases</strong> like <strong>MongoDB</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong>, with a strong understanding of <strong>CI/CD</strong> processes, <strong>Docker</strong>, and <strong>monorepos</strong> for efficient development workflows.</li>
