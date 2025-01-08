@@ -3,14 +3,14 @@
 ###
 
 
-💻 I'm a **Full-Stack Developer** passionate about building robust web applications.  
-🚀 Currently diving into **DevOps** practices and actively building a **production-level chess application**, where I’m excited to collaborate with contributors.  
-🧑‍💻 Experienced in **frontend** technologies like **React**, **Next.js**, and **Tailwind CSS**, as well as **backend** frameworks such as **Node.js**, **Express.js**, and **Hono.js**.  
-📊 Skilled in **databases** like **MongoDB**, **PostgreSQL**, and **Redis**, with a strong understanding of **CI/CD** processes, **Docker**, and **monorepos** for efficient development workflows.
+- 💻 I'm a **Full-Stack Developer** passionate about building robust web applications.  
+- 🚀 Currently diving into **DevOps** practices and actively building a **production-level chess application**, where I’m excited to collaborate with contributors.  
+- 🧑‍💻 Experienced in **frontend** technologies like **React**, **Next.js**, and **Tailwind CSS**, as well as **backend** frameworks such as **Node.js**, **Express.js**, and **Hono.js**.  
+- 📊 Skilled in **databases** like **MongoDB**, **PostgreSQL**, and **Redis**, with a strong understanding of **CI/CD** processes, **Docker**, and **monorepos** for efficient development workflows.
 
-🎯 **Life Hack**: *“Build it, test it, learn from it, and build again!”*  
-⚡ Fun fact: When I'm not coding, I enjoy **reading**, **gaming**, and exploring new **technologies**.  
-🚀 Always ready for collaboration—feel free to reach out!
+- 🎯 **Life Hack**: *“Build it, test it, learn from it, and build again!”*  
+- ⚡ Fun fact: When I'm not coding, I enjoy **reading**, **gaming**, and exploring new **technologies**.  
+- 🚀 Always ready for collaboration—feel free to reach out!
 
 ###
 
