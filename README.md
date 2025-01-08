@@ -2,18 +2,6 @@
 
 ###
 
-
-- 💻 I'm a **Full-Stack Developer** passionate about building robust web applications.
-- 🚀 Currently diving into **DevOps** practices and actively building a **production-level chess application**, where I’m excited to collaborate with contributors.
-- 🧑‍💻 Experienced in **frontend** technologies like **React**, **Next.js**, and **Tailwind CSS**, as well as **backend** frameworks such as **Node.js**, **Express.js**, and **Hono.js**.
-- 📊 Skilled in **databases** like **MongoDB**, **PostgreSQL**, and **Redis**, with a strong understanding of **CI/CD** processes, **Docker**, and **monorepos** for efficient development workflows.
-
-- 🎯 **Life Hack**: *“Build it, test it, learn from it, and build again!”*
-- ⚡ Fun fact: When I'm not coding, I enjoy **reading**, **gaming**, and exploring new **technologies**.
-- 🚀 Always ready for collaboration—feel free to reach out!
-
-###
-
 <img align="right" height="150" src="https://s7.gifyu.com/images/SXChl.gif"  />
 
 ###
@@ -69,6 +57,21 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=0078D4&logoColor=&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
+
+###
+
+<ul>
+  <li>💻 I'm a <strong>Full-Stack Developer</strong> passionate about building robust web applications.</li>
+  <li>🚀 Currently diving into <strong>DevOps</strong> practices and actively building a <strong>production-level chess application</strong>, where I’m excited to collaborate with contributors.</li>
+  <li>🧑‍💻 Experienced in <strong>frontend</strong> technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, as well as <strong>backend</strong> frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Hono.js</strong>.</li>
+  <li>📊 Skilled in <strong>databases</strong> like <strong>MongoDB</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong>, with a strong understanding of <strong>CI/CD</strong> processes, <strong>Docker</strong>, and <strong>monorepos</strong> for efficient development workflows.</li>
+</ul>
+
+<ul>
+  <li>🎯 <strong>Life Hack</strong>: <em>“Build it, test it, learn from it, and build again!”</em></li>
+  <li>⚡ Fun fact: When I'm not coding, I enjoy <strong>reading</strong>, <strong>gaming</strong>, and exploring new <strong>technologies</strong>.</li>
+  <li>🚀 Always ready for collaboration—feel free to reach out!</li>
+</ul>
 
 ###
 
