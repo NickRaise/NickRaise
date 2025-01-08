@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nikhil Kumar and I'm a Full-Stack Developer, from India</h2>
+<h1 align="left">Hi 👋! My name is Nikhil Kumar and I'm a Full-Stack Developer, from India</h1>
 
 ###
 
