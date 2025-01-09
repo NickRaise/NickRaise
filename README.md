@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s7.gifyu.com/images/SXChl.gif"  />
+<img align="right" height="200" src="https://s7.gifyu.com/images/SXChl.gif"  />
 
 ###
 
