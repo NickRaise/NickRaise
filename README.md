@@ -71,7 +71,7 @@
 <ul>
   <li>🎯 <strong>Life Hack</strong>: <em>“Build it, test it, learn from it, and build again!”</em></li>
   <li>⚡ Fun fact: When I'm not coding, I enjoy <strong>reading</strong>, <strong>gaming</strong>, and exploring new <strong>technologies</strong>.</li>
-  <li>🚀 Always ready for collaboration—feel free to reach out!</li>
+  <li>📫 Always ready for collaboration—feel free to reach out to discuss potential opportunities!</li>
 </ul>
 
 ###
