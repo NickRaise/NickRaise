@@ -65,6 +65,7 @@
   <li>🚀 Currently diving into <strong>DevOps</strong> practices and actively building a <strong>production-level chess application</strong>, where I’m excited to collaborate with contributors.</li>
   <li>🧑‍💻 Experienced in <strong>frontend</strong> technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, as well as <strong>backend</strong> frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Hono.js</strong>.</li>
   <li>📊 Skilled in <strong>databases</strong> like <strong>MongoDB</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong>, with a strong understanding of <strong>CI/CD</strong> processes, <strong>Docker</strong>, and <strong>monorepos</strong> for efficient development workflows.</li>
+  <li>💼 Actively seeking internships or job opportunities in <strong>full-stack development</strong> or <strong>backend development</strong> roles, where I can contribute my expertise and learn from dynamic teams.</li>
 </ul>
 
 <ul>
