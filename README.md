@@ -46,6 +46,9 @@
   <a href="mailto:nikhilnainwaya17@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://portfolio-nywf.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=0078D4&logoColor=&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/nikhilkumar17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -55,7 +58,6 @@
   <a href="https://medium.com/@nikhilnainwaya17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=0078D4&logoColor=&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
 ###
