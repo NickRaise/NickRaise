@@ -1,91 +1,50 @@
-<h1 align="left">Hi 👋! My name is Nikhil Kumar and I'm a Full-Stack Developer, from India</h1>
+# Hi, I'm Nikhil 👋
 
-###
+I'm a software engineer who likes to think about software as a whole: how the parts are designed, how they fit together, and how they hold up in production.
 
-<img align="right" height="200" src="https://s7.gifyu.com/images/SXChl.gif"  />
+At work I build the cart, checkout, payment and order APIs of an e-commerce platform that serves customers in the US, Australia and other international markets. Outside work I make videos about system design, architecture and database design, and sometimes write technical blogs about things I find interesting.
 
-###
+Working remotely and open to new opportunities.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-</div>
+## What I work on
 
-###
+- **Architecture and API design:** modular backends, large API refactors, monorepo structure
+- **Payments and orders:** Stripe, PayPal and other payment flows, with careful handling of failures and race conditions
+- **Security:** authentication and token handling, CSRF protection, rate limiting, security review fixes
+- **Data and integrations:** migration and sync scripts, webhooks, workflow automation with n8n
 
-<div align="left">
-  <a href="mailto:nikhilnainwaya17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://portfolio-nywf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=0078D4&logoColor=&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhilkumar17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/__NikhilKumar_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@nikhilnainwaya17" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+## Tech
 
-###
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<ul>
-  <li>💻 A <strong>problem-solver</strong> at heart, crafting <strong>innovative</strong> and <strong>scalable</strong> solutions using <strong>full-stack</strong> technologies to bring ideas to life.</li>
-  <li>🚀 Currently diving into <strong>DevOps</strong> practices and actively building a <strong>production-level chess application</strong>, where I’m excited to collaborate with contributors.</li>
-  <li>🧑‍💻 Experienced in <strong>frontend</strong> technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, as well as <strong>backend</strong> frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Hono.js</strong>.</li>
-  <li>📊 Skilled in <strong>databases</strong> like <strong>MongoDB</strong>, <strong>PostgreSQL</strong>, and <strong>Redis</strong>, with a strong understanding of <strong>CI/CD</strong> processes, <strong>Docker</strong>, and <strong>monorepos</strong> for efficient development workflows.</li>
-  <li>💼 Actively seeking internships or job opportunities in <strong>full-stack development</strong> or <strong>backend development</strong> roles, where I can contribute my expertise and learn from dynamic teams.</li>
-</ul>
+Also: WebSockets, Turborepo, Tailwind CSS, Jest, Postman, n8n.
 
-<ul>
-  <li>🎯 <strong>Life Hack</strong>: <em>“Build it, test it, learn from it, and build again!”</em></li>
-  <li>⚡ Fun fact: When I'm not coding, I enjoy <strong>reading</strong>, <strong>gaming</strong>, and exploring new <strong>technologies</strong>.</li>
-  <li>📫 Always ready for collaboration—feel free to reach out to discuss potential opportunities!</li>
-</ul>
+## Things I've built
 
-###
+- **[SyncSpace](https://github.com/NickRaise/Remote-Space)**: a multiplayer virtual space with a custom WebSocket server, server-side movement validation and JWT role-based access, in a Turborepo monorepo.
+- **[PayOP](https://github.com/NickRaise/PayOP)**: a wallet app with a simulated bank webhook server, built with Prisma on PostgreSQL.
+- **[Feedback Collector](https://github.com/NickRaise/Feedback-Collector-with-Rate-Limiting-Real-Time-Updates)**: a Redis-backed API with per-IP rate limiting and Pub/Sub live updates.
+- **[Daylapse](https://github.com/NickRaise/Daylapse)**: an open-source journaling app that compiles your days into montage videos.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickRaise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickRaise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Writing and videos
 
+- ▶️ [YouTube](https://www.youtube.com/@refactoredmind): system design and database design videos, such as [Designing the Backend APIs for an AI Sketch-to-Code SaaS](https://www.youtube.com/watch?v=D7Iba0ul06Y) and [Designing the Database for a Sketch to UI SaaS](https://www.youtube.com/watch?v=qgCfB6HC9uI)
+- ✍️ [Hashnode](https://make-a-dev.hashnode.dev): [MongoDB indexing](https://make-a-dev.hashnode.dev/how-mongodb-indexing-improves-query-performance-a-complete-guide-for-optimizing-searches), [access and refresh tokens](https://make-a-dev.hashnode.dev/how-to-make-your-apis-more-secure-using-access-tokens-and-refresh-tokens), [bcrypt and salt](https://make-a-dev.hashnode.dev/how-bcrypt-uses-salt-for-password-protection)
 
-###
+## Find me
 
-<!--<img src="https://raw.githubusercontent.com/NickRaise/NickRaise/output/snake.svg" alt="Snake animation" /> -->
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumar17/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@refactoredmind)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/__NikhilKumar_)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nikhilnainwaya17)
+[![Email](https://img.shields.io/badge/Email-0891B2?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilnainwaya17@gmail.com)
