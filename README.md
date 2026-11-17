@@ -6,6 +6,13 @@ At work I build the cart, checkout, payment and order APIs of an e-commerce plat
 
 Working remotely and open to new opportunities.
 
+## Things I've built
+
+- **[Daylapse](https://github.com/NickRaise/Daylapse)**: an open-source journaling app that captures one moment a day and compiles runs of days into montage videos, with an on-device video pipeline.
+- **[SyncSpace](https://github.com/NickRaise/Remote-Space)**: a multiplayer virtual space with a custom WebSocket server, server-side movement validation and JWT role-based access, in a Turborepo monorepo.
+- **[Sketch to Design](https://github.com/NickRaise/S2D-Sketch-to-Design)**: turns a wireframe into HTML and Tailwind. Express, Prisma and PostgreSQL with custom JWT auth (refresh token rotation with reuse detection), WebSocket realtime sync and streamed AI output over SSE.
+- **[Allowkazam](https://github.com/NickRaise/Allowkazam)**: an API gateway that sits in front of an existing API to manage access, rate limiting and request logging. Work in progress, built step by step on Fastify in a Turborepo monorepo.
+
 ## What I work on
 
 - **Architecture and API design:** modular backends, large API refactors, monorepo structure
@@ -28,13 +35,6 @@ Working remotely and open to new opportunities.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Also: WebSockets, Turborepo, Tailwind CSS, Jest, Postman, n8n.
-
-## Things I've built
-
-- **[SyncSpace](https://github.com/NickRaise/Remote-Space)**: a multiplayer virtual space with a custom WebSocket server, server-side movement validation and JWT role-based access, in a Turborepo monorepo.
-- **[PayOP](https://github.com/NickRaise/PayOP)**: a wallet app with a simulated bank webhook server, built with Prisma on PostgreSQL.
-- **[Feedback Collector](https://github.com/NickRaise/Feedback-Collector-with-Rate-Limiting-Real-Time-Updates)**: a Redis-backed API with per-IP rate limiting and Pub/Sub live updates.
-- **[Daylapse](https://github.com/NickRaise/Daylapse)**: an open-source journaling app that compiles your days into montage videos.
 
 ## Writing and videos
 
